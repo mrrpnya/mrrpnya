@@ -23,7 +23,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 **🐱 My GitHub Data** 
 
 > 📦 284.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,24 +68,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      2 hrs 28 mins       ████████████████████░░░░░   81.68 % 
-C++                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Svelte                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Nix                      3 hrs 7 mins        ██████████████████████░░░   89.69 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Svelte                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cluster_config           1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.23 % 
-neo-dotfiles             1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.67 % 
-source-sdk-2013          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-godot                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+neo-dotfiles             1 hr 36 mins        ████████████░░░░░░░░░░░░░   46.20 % 
+cluster_config           1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
+source-sdk-2013          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+nimi.li                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 18:46:51 UTC
+ Last Updated on 28/02/2025 18:46:23 UTC
 <!--END_SECTION:waka-->
