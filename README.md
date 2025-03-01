@@ -33,8 +33,6 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.1 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      3 hrs 7 mins        ██████████████████████░░░   89.69 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Svelte                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Nix                      3 hrs 7 mins        ██████████████████████░░░   88.92 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Svelte                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-dotfiles             1 hr 36 mins        ████████████░░░░░░░░░░░░░   46.20 % 
-cluster_config           1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
-source-sdk-2013          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-nimi.li                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+neo-dotfiles             1 hr 36 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
+cluster_config           1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
+source-sdk-2013          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+nimi.li                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2025 18:46:23 UTC
+ Last Updated on 01/03/2025 18:43:07 UTC
 <!--END_SECTION:waka-->
