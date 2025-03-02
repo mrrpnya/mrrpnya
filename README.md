@@ -66,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      3 hrs 7 mins        ██████████████████████░░░   88.92 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Svelte                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Nix                      3 hrs 5 mins        ████████████████░░░░░░░░░   62.26 % 
+TypeScript               1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Vue.js                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Svelte                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-dotfiles             1 hr 36 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
-cluster_config           1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
-source-sdk-2013          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-nimi.li                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+rssreader                1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+neo-dotfiles             1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+cluster_config           1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+nimi.li                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 18:43:07 UTC
+ Last Updated on 02/03/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
