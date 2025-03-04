@@ -66,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      3 hrs 4 mins        ████████████████░░░░░░░░░   64.01 % 
-TypeScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Vue.js                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Nix                      3 hrs 23 mins       █████████████████░░░░░░░░   66.13 % 
+TypeScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Vue.js                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rssreader                1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   33.76 % 
-neo-dotfiles             1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   32.61 % 
-cluster_config           1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+cluster_config           1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   34.80 % 
+rssreader                1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+neo-dotfiles             1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+GenderDysphoria.fyi      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 nuxt-app                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2025 18:46:29 UTC
+ Last Updated on 04/03/2025 18:47:39 UTC
 <!--END_SECTION:waka-->
