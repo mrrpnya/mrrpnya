@@ -33,8 +33,6 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     4 hrs 1 min         █████████████████░░░░░░░░   66.87 % 
-Nix                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Docker                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+YAML                     4 hrs 1 min         ██████████████░░░░░░░░░░░   55.89 % 
+Nix                      1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Docker                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hub-site-1               2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-PublishImage             1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-hub-site                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-cluster_config           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-neo-dotfiles             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+hub-site-1               2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+PublishImage             1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+neo-dotfiles             1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+hub-site                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+cluster_config           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 💻 Operating System: 
-Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2025 18:39:08 UTC
+ Last Updated on 10/03/2025 18:46:13 UTC
 <!--END_SECTION:waka-->
