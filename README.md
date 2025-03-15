@@ -66,26 +66,26 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
-Nix                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-YAML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Rust                     3 hrs 21 mins       █████████████░░░░░░░░░░░░   50.57 % 
+Nix                      1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 21 mins       ████████████████████████░   97.35 % 
-Rider                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Blender                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  6 hrs 25 mins       ████████████████████████░   96.98 % 
+Rider                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Blender                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🐱‍💻 Projects: 
-matchmaking              4 hrs 7 mins        ██████████████░░░░░░░░░░░   54.44 % 
-neo-dotfiles             1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-lunar                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-hub-site                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-PublishImage             23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+matchmaking              4 hrs 7 mins        ████████████████░░░░░░░░░   62.13 % 
+neo-dotfiles             1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+lunar                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Foster                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Ghostbound               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2025 18:46:22 UTC
+ Last Updated on 15/03/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
