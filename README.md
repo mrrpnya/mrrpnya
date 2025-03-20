@@ -66,25 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     1 hr 31 mins        ████████████░░░░░░░░░░░░░   48.83 % 
-Nix                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Meson                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Nix                      37 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Rust                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Meson                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ████████████████████████░   97.10 % 
-Blender                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-matchmaking              1 hr 51 mins        ███████████████░░░░░░░░░░   59.02 % 
-Template                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-neo-dotfiles             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Ghostbound               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-godot                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+matchmaking              49 mins             ██████████░░░░░░░░░░░░░░░   40.66 % 
+Template                 42 mins             █████████░░░░░░░░░░░░░░░░   34.92 % 
+neo-dotfiles             21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+godot                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+lunar                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -100,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 18:48:29 UTC
+ Last Updated on 20/03/2025 18:46:10 UTC
 <!--END_SECTION:waka-->
