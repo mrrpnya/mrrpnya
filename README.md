@@ -66,24 +66,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      37 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Rust                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Meson                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Nix                      26 mins             ███████████░░░░░░░░░░░░░░   43.64 % 
+Meson                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+C                        11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-matchmaking              49 mins             ██████████░░░░░░░░░░░░░░░   40.66 % 
-Template                 42 mins             █████████░░░░░░░░░░░░░░░░   34.92 % 
-neo-dotfiles             21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-godot                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-lunar                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Template                 42 mins             █████████████████░░░░░░░░   69.00 % 
+neo-dotfiles             15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+lunar                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 18:46:10 UTC
+ Last Updated on 21/03/2025 18:46:56 UTC
 <!--END_SECTION:waka-->
