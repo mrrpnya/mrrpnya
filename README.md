@@ -31,7 +31,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 **🐱 My GitHub Data** 
 
-> 📦 284.1 kB Used in GitHub's Storage 
+> 📦 284.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,22 +66,16 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      12 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Meson                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-C                        7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Template                 36 mins             ██████████████████████░░░   89.08 % 
-lunar                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-neo-dotfiles             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -97,5 +91,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 18:48:39 UTC
+ Last Updated on 25/03/2025 18:48:21 UTC
 <!--END_SECTION:waka-->
