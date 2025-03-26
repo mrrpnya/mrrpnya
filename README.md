@@ -66,16 +66,17 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 53 mins             ██████████████████░░░░░░░   71.78 % 
+Vue.js                   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -91,5 +92,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 18:48:21 UTC
+ Last Updated on 26/03/2025 18:48:27 UTC
 <!--END_SECTION:waka-->
