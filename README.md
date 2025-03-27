@@ -23,7 +23,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,17 +66,19 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 53 mins             ██████████████████░░░░░░░   71.78 % 
-Vue.js                   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Markdown                 1 hr 6 mins         ████████████████░░░░░░░░░   65.41 % 
+Vue.js                   27 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     1 hr 15 mins        █████████████████████████   100.00 % 
+blog                     1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -92,5 +94,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 18:48:27 UTC
+ Last Updated on 27/03/2025 18:48:10 UTC
 <!--END_SECTION:waka-->
