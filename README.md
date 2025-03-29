@@ -33,8 +33,6 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,10 +66,10 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         ████████████████░░░░░░░░░   65.41 % 
-Vue.js                   27 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown                 1 hr 7 mins         ████████████████░░░░░░░░░   65.61 % 
+Vue.js                   27 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
 VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
@@ -96,5 +94,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 18:49:29 UTC
+ Last Updated on 29/03/2025 18:44:29 UTC
 <!--END_SECTION:waka-->
