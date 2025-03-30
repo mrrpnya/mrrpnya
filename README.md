@@ -23,7 +23,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 **🐱 My GitHub Data** 
 
 > 📦 284.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 32 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 18:44:29 UTC
+ Last Updated on 30/03/2025 18:44:47 UTC
 <!--END_SECTION:waka-->
