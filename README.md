@@ -33,7 +33,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2025 18:44:47 UTC
+ Last Updated on 31/03/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
