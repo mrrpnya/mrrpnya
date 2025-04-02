@@ -33,6 +33,8 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 32 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -66,19 +68,19 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████████░░░░░░░░░   65.61 % 
-Vue.js                   27 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 14 mins             █████████████░░░░░░░░░░░░   50.26 % 
+Vue.js                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+CSS                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+SCSS                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     1 hr 42 mins        █████████████████████████   100.00 % 
+blog                     28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -94,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 18:48:53 UTC
+ Last Updated on 02/04/2025 18:48:44 UTC
 <!--END_SECTION:waka-->
