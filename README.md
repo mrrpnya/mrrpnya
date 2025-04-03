@@ -33,8 +33,6 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,19 +66,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████░░░░░░░░░░░░   50.26 % 
-Vue.js                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-CSS                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-SCSS                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Rust                     56 mins             ██████████████████████░░░   88.14 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     28 mins             █████████████████████████   100.00 % 
+pages                    59 mins             ███████████████████████░░   93.04 % 
+lunar                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -96,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2025 18:48:44 UTC
+ Last Updated on 03/04/2025 18:47:54 UTC
 <!--END_SECTION:waka-->
