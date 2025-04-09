@@ -33,8 +33,6 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     1 hr                █████████████░░░░░░░░░░░░   52.23 % 
-YAML                     32 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Docker                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Nix                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Rust                     1 hr                ██████████░░░░░░░░░░░░░░░   38.29 % 
+YAML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Vue.js                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Docker                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    1 hr 33 mins        ████████████████████░░░░░   80.54 % 
-hub-site                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-project_starlight        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-lunar                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-neo-dotfiles             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+pages                    2 hrs 14 mins       █████████████████████░░░░   85.05 % 
+hub-site                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+project_starlight        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+lunar                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+neo-dotfiles             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2025 18:49:06 UTC
+ Last Updated on 09/04/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
