@@ -66,23 +66,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     33 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Vue.js                   32 mins             ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Docker                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Vue.js                   32 mins             █████████░░░░░░░░░░░░░░░░   37.01 % 
+YAML                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Docker                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    1 hr 14 mins        ████████████████████░░░░░   78.36 % 
-hub-site                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-project_starlight        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-neo-dotfiles             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+pages                    1 hr 6 mins         ███████████████████░░░░░░   76.32 % 
+hub-site                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+project_starlight        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2025 18:48:18 UTC
+ Last Updated on 12/04/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
