@@ -66,16 +66,20 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      2 mins              █████████████████████████   100.00 % 
+CSS                      6 mins              ██████████████████░░░░░░░   72.85 % 
+Nix                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-dotfiles             2 mins              █████████████████████████   100.00 % 
+pages                    6 mins              ███████████████████░░░░░░   75.77 % 
+neo-dotfiles             2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -91,5 +95,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 18:47:07 UTC
+ Last Updated on 19/04/2025 18:44:28 UTC
 <!--END_SECTION:waka-->
