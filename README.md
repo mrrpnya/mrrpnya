@@ -33,6 +33,8 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 32 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -66,20 +68,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 38 mins             ██████████████░░░░░░░░░░░   57.88 % 
-YAML                     19 mins             ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 38 mins             ████████████████░░░░░░░░░   63.36 % 
+YAML                     19 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Nix                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    1 hr 5 mins         █████████████████████████   100.00 % 
+pages                    57 mins             ████████████████████████░   96.41 % 
+dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+neo-dotfiles             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -95,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 18:48:14 UTC
+ Last Updated on 26/04/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
