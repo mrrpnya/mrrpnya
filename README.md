@@ -23,7 +23,7 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuf
 **🐱 My GitHub Data** 
 
 > 📦 284.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 32 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,23 +68,23 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
-Markdown                 1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   30.94 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Vue.js                   2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.61 % 
+Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    4 hrs 51 mins       ████████████████████████░   96.78 % 
-neo-dotfiles             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-hub-site                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+pages                    5 hrs 52 mins       ████████████████████████░   97.16 % 
+neo-dotfiles             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+hub-site                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +100,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2025 18:45:41 UTC
+ Last Updated on 28/04/2025 18:49:11 UTC
 <!--END_SECTION:waka-->
