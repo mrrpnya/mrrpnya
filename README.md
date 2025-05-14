@@ -66,24 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Blender                  49 mins             █████████████████░░░░░░░░   66.17 % 
-C++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Nix                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Blender                  46 mins             ██████████████░░░░░░░░░░░   56.91 % 
+C++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Nix                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 
 🔥 Editors: 
-Blender                  49 mins             █████████████████░░░░░░░░   66.17 % 
-VS Code                  25 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Blender                  46 mins             ██████████████░░░░░░░░░░░   56.91 % 
+VS Code                  35 mins             ███████████░░░░░░░░░░░░░░   43.09 % 
 
 🐱‍💻 Projects: 
-godot                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-neo-dotfiles             12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-lightswitch              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-glowstick                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-lamp                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Ghostbound               16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+godot                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+neo-dotfiles             12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+lightswitch              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+glowstick                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2025 18:49:21 UTC
+ Last Updated on 14/05/2025 18:49:00 UTC
 <!--END_SECTION:waka-->
