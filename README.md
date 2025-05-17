@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,25 +66,25 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     4 hrs 2 mins        █████████████░░░░░░░░░░░░   53.14 % 
-Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Blender                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Nix                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+YAML                     5 hrs 1 min         ███████████████░░░░░░░░░░   58.11 % 
+Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Blender                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Nix                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+GDScript3                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        ███████████████████████░░   92.86 % 
-Blender                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+VS Code                  8 hrs 6 mins        ███████████████████████░░   93.91 % 
+Blender                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🐱‍💻 Projects: 
-Ghostbound               6 hrs 29 mins       █████████████████████░░░░   85.40 % 
-neo-dotfiles             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-godot                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-glowstick                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-untitled                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Ghostbound               7 hrs 32 mins       ██████████████████████░░░   87.35 % 
+neo-dotfiles             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+godot                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+glowstick                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+untitled                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Linux                    7 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -100,5 +100,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 18:49:20 UTC
+ Last Updated on 17/05/2025 18:47:10 UTC
 <!--END_SECTION:waka-->
