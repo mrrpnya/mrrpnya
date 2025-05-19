@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,11 +33,13 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 34 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -66,25 +68,25 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     5 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.13 % 
-Markdown                 2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Blender                  1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Nix                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+YAML                     5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.07 % 
+Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Rust                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Blender                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       █████████████████████░░░░   85.75 % 
-Blender                  1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+VS Code                  13 hrs 45 mins      ██████████████████████░░░   89.56 % 
+Blender                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 🐱‍💻 Projects: 
-Ghostbound               9 hrs 10 mins       ████████████████████░░░░░   81.53 % 
-practice-model           1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-neo-dotfiles             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-DOOM-master              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-ghostbound-gut-test      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Ghostbound               9 hrs 10 mins       ███████████████░░░░░░░░░░   59.74 % 
+MadGameServices          4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+practice-model           1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+neo-dotfiles             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+DOOM-master              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Linux                    11 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -100,5 +102,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 18:46:51 UTC
+ Last Updated on 19/05/2025 18:50:28 UTC
 <!--END_SECTION:waka-->
