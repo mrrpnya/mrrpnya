@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,24 +66,23 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Rust                     1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.05 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Nix                      1 hr 47 mins        ████████████████████░░░░░   78.47 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MadGameServices          4 hrs 11 mins       ████████████████░░░░░░░░░   64.72 % 
-neo-dotfiles             1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-ansible                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-personal                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Ghostbound               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+neo-dotfiles             1 hr 47 mins        ████████████████████░░░░░   78.52 % 
+ansible                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+personal                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Ghostbound               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +98,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2025 18:46:57 UTC
+ Last Updated on 26/05/2025 18:48:26 UTC
 <!--END_SECTION:waka-->
