@@ -33,8 +33,6 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,22 +66,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      1 hr 47 mins        ████████████████████░░░░░   80.25 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Nix                      1 hr 24 mins        ███████████████████░░░░░░   76.03 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-dotfiles             1 hr 47 mins        ████████████████████░░░░░   80.29 % 
-ansible                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-personal                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+neo-dotfiles             1 hr 24 mins        ███████████████████░░░░░░   76.08 % 
+ansible                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+personal                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2025 18:49:58 UTC
+ Last Updated on 29/05/2025 18:50:58 UTC
 <!--END_SECTION:waka-->
