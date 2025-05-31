@@ -66,22 +66,22 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      1 hr 24 mins        ███████████████████░░░░░░   76.03 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Nix                      37 mins             ████████████████████████░   96.86 % 
+INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-dotfiles             1 hr 24 mins        ███████████████████░░░░░░   76.08 % 
-ansible                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-personal                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+neo-dotfiles             37 mins             ████████████████████████░   97.01 % 
+ansible                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+personal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
+Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -97,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 18:50:04 UTC
+ Last Updated on 31/05/2025 18:47:15 UTC
 <!--END_SECTION:waka-->
