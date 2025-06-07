@@ -68,21 +68,19 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   15 mins             █████████████████░░░░░░░░   68.43 % 
-TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Nix                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Vue.js                   15 mins             ███████████████████░░░░░░   77.32 % 
+TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-personal                 19 mins             ██████████████████████░░░   88.50 % 
-neo-dotfiles             2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+personal                 19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 18:50:43 UTC
+ Last Updated on 07/06/2025 18:47:47 UTC
 <!--END_SECTION:waka-->
