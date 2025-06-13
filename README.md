@@ -33,6 +33,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 38 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -91,5 +93,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 18:51:17 UTC
+ Last Updated on 13/06/2025 18:50:58 UTC
 <!--END_SECTION:waka-->
