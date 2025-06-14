@@ -33,8 +33,6 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -68,16 +66,21 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     19 mins             █████████████████░░░░░░░░   66.41 % 
+TOML                     8 mins              ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cot-test                 22 mins             ███████████████████░░░░░░   76.46 % 
+loco-test                7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -93,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 18:50:58 UTC
+ Last Updated on 14/06/2025 18:48:58 UTC
 <!--END_SECTION:waka-->
