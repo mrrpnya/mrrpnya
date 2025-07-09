@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,18 +66,21 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     25 mins             █████████████░░░░░░░░░░░░   52.33 % 
-Nix                      22 mins             ████████████░░░░░░░░░░░░░   47.67 % 
+YAML                     25 mins             ████████████░░░░░░░░░░░░░   47.15 % 
+Nix                      24 mins             ████████████░░░░░░░░░░░░░   46.93 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wildspace                25 mins             █████████████░░░░░░░░░░░░   52.33 % 
-dotfiles                 22 mins             ████████████░░░░░░░░░░░░░   47.67 % 
+wildspace                25 mins             ████████████░░░░░░░░░░░░░   47.15 % 
+dotfiles                 24 mins             ████████████░░░░░░░░░░░░░   46.93 % 
+linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -93,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 18:53:25 UTC
+ Last Updated on 09/07/2025 18:53:12 UTC
 <!--END_SECTION:waka-->
