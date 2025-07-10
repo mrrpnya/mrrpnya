@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,21 +66,23 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     25 mins             ████████████░░░░░░░░░░░░░   47.15 % 
-Nix                      24 mins             ████████████░░░░░░░░░░░░░   46.93 % 
-C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Nix                      51 mins             ██████████░░░░░░░░░░░░░░░   40.34 % 
+YAML                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+C                        24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+C++                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Meson                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wildspace                25 mins             ████████████░░░░░░░░░░░░░   47.15 % 
-dotfiles                 24 mins             ████████████░░░░░░░░░░░░░   46.93 % 
-linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+untitled-engine          51 mins             ██████████░░░░░░░░░░░░░░░   40.95 % 
+dotfiles                 46 mins             █████████░░░░░░░░░░░░░░░░   36.78 % 
+wildspace                25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -96,5 +98,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 18:53:12 UTC
+ Last Updated on 10/07/2025 18:52:52 UTC
 <!--END_SECTION:waka-->
