@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,23 +66,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Nix                      51 mins             ██████████░░░░░░░░░░░░░░░   40.34 % 
-YAML                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-C                        24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-C++                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Meson                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Nix                      1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+C                        24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+C++                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitled-engine          51 mins             ██████████░░░░░░░░░░░░░░░   40.95 % 
-dotfiles                 46 mins             █████████░░░░░░░░░░░░░░░░   36.78 % 
-wildspace                25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+dotfiles                 59 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+sim                      55 mins             ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+untitled-engine          51 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+wildspace                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 18:52:52 UTC
+ Last Updated on 11/07/2025 18:52:23 UTC
 <!--END_SECTION:waka-->
