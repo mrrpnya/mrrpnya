@@ -66,23 +66,19 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   56 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
-Nix                      38 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-C                        21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-C++                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Meson                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   56 mins             ████████████████████░░░░░   81.88 % 
+Nix                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sim                      55 mins             ██████████░░░░░░░░░░░░░░░   39.32 % 
-untitled-engine          51 mins             █████████░░░░░░░░░░░░░░░░   36.51 % 
-dotfiles                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-aces                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+sim                      55 mins             ████████████████████░░░░░   81.51 % 
+dotfiles                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+aces                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +94,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2025 18:55:00 UTC
+ Last Updated on 17/07/2025 18:55:23 UTC
 <!--END_SECTION:waka-->
