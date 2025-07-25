@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,16 +68,16 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 mins              ███████████████████░░░░░░   74.68 % 
-Nix                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+TypeScript               6 mins              ███████████████████░░░░░░   74.28 % 
+Nix                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 🔥 Editors: 
 VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-juice-shop               6 mins              ███████████████████░░░░░░   74.68 % 
-dotfiles                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+juice-shop               6 mins              ███████████████████░░░░░░   74.28 % 
+dotfiles                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 
 💻 Operating System: 
 Linux                    8 mins              █████████████████████████   100.00 % 
@@ -94,5 +96,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 18:55:41 UTC
+ Last Updated on 25/07/2025 18:55:05 UTC
 <!--END_SECTION:waka-->
