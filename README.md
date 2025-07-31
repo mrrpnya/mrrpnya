@@ -23,6 +23,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.1%20thousand%20lines%20of%20code-blue)
@@ -64,19 +66,16 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 mins              ███████████████████░░░░░░   74.28 % 
-Nix                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Nix                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-juice-shop               6 mins              ███████████████████░░░░░░   74.28 % 
-dotfiles                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+dotfiles                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -92,5 +91,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 18:56:18 UTC
+ Last Updated on 31/07/2025 18:56:30 UTC
 <!--END_SECTION:waka-->
