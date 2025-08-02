@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,8 +32,6 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.0 kB Used in GitHub's Storage 
- > 
-> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,17 +66,17 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      5 mins              ██████████████████████░░░   87.74 % 
-Nix                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C++                      5 mins              ██████████████████████░░░   88.70 % 
+Nix                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-snes9x                   5 mins              ██████████████████████░░░   88.52 % 
-dotfiles                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+snes9x                   5 mins              ██████████████████████░░░   89.49 % 
+dotfiles                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
 Linux                    6 mins              █████████████████████████   100.00 % 
@@ -97,5 +95,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2025 18:55:37 UTC
+ Last Updated on 02/08/2025 18:53:00 UTC
 <!--END_SECTION:waka-->
