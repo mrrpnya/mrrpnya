@@ -33,6 +33,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 39 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -66,20 +68,20 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      5 mins              ██████████████████████░░░   88.38 % 
-Nix                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+C++                      5 mins              ██████████████████████░░░   89.22 % 
+Nix                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-snes9x                   5 mins              ██████████████████████░░░   89.17 % 
-dotfiles                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+snes9x                   5 mins              ███████████████████████░░   90.01 % 
+dotfiles                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -95,5 +97,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 18:57:36 UTC
+ Last Updated on 05/08/2025 18:59:04 UTC
 <!--END_SECTION:waka-->
