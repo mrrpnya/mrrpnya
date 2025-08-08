@@ -33,6 +33,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 
 > 📦 284.0 kB Used in GitHub's Storage 
  > 
+> 🏆 39 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -66,20 +68,21 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      5 mins              ██████████████████████░░░   89.22 % 
-Nix                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Singularity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 4 mins              █████████████████░░░░░░░░   67.31 % 
+Nix                      1 min               █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-snes9x                   5 mins              ███████████████████████░░   90.01 % 
-dotfiles                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+pages                    4 mins              ████████████████████░░░░░   79.53 % 
+wildspace                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+personal-site            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -95,5 +98,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2025 18:58:05 UTC
+ Last Updated on 08/08/2025 18:53:09 UTC
 <!--END_SECTION:waka-->
