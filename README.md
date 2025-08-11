@@ -66,21 +66,23 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 4 mins              █████████████████░░░░░░░░   67.31 % 
-Nix                      1 min               █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Nix                      15 mins             ███████████████████░░░░░░   74.86 % 
+Markdown                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    4 mins              ████████████████████░░░░░   79.53 % 
-wildspace                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-personal-site            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+dotfiles                 14 mins             █████████████████░░░░░░░░   68.81 % 
+pages                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+wildspace                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+personal-site            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+aces                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -96,5 +98,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2025 18:50:28 UTC
+ Last Updated on 11/08/2025 18:55:39 UTC
 <!--END_SECTION:waka-->
