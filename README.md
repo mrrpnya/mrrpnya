@@ -23,17 +23,17 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-194.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 284.1 kB Used in GitHub's Storage 
+> 📦 284.2 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-🌆 Daytime                176 commits         ██████████████░░░░░░░░░░░   55.87 % 
-🌃 Evening                74 commits          ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+🌞 Morning                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌆 Daytime                120 commits         ████████████░░░░░░░░░░░░░   49.79 % 
+🌃 Evening                66 commits          ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Tuesday                  98 commits          ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Tuesday                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Friday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Sunday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 ```
 
 
@@ -68,24 +68,24 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     3 hrs 20 mins       ██████████████████░░░░░░░   73.57 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Nix                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Rust                     3 hrs 20 mins       ██████████████████░░░░░░░   70.68 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Nix                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starlight                2 hrs 23 mins       █████████████░░░░░░░░░░░░   52.53 % 
-minecraft_world          59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-pages                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-dotfiles                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Godot Multiplayer Service3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Starlight                2 hrs 23 mins       █████████████░░░░░░░░░░░░   50.47 % 
+minecraft_world          59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+pages                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+dotfiles                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Godot Multiplayer Service3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 18:54:16 UTC
+ Last Updated on 13/08/2025 18:52:44 UTC
 <!--END_SECTION:waka-->
