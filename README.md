@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,8 +32,6 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2025 18:52:44 UTC
+ Last Updated on 14/08/2025 18:54:13 UTC
 <!--END_SECTION:waka-->
