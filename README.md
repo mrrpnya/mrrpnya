@@ -66,24 +66,24 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     3 hrs 20 mins       ██████████████████░░░░░░░   70.68 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Nix                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Rust                     7 hrs 5 mins        ██████████████████░░░░░░░   72.21 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Nix                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starlight                2 hrs 23 mins       █████████████░░░░░░░░░░░░   50.47 % 
-minecraft_world          59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-pages                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-dotfiles                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Godot Multiplayer Service3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+game-services            3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
+Starlight                2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+minecraft_world          59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+runner-images            58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+dotfiles                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
-Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 18:54:13 UTC
+ Last Updated on 15/08/2025 18:52:39 UTC
 <!--END_SECTION:waka-->
