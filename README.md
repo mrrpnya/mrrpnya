@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,24 +68,24 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     7 hrs 5 mins        ██████████████████░░░░░░░   72.21 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Nix                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Rust                     13 hrs 46 mins      ████████████████████░░░░░   81.31 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Nix                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  16 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-game-services            3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
-Starlight                2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-minecraft_world          59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-runner-images            58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-dotfiles                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+game-services            10 hrs 53 mins      ████████████████░░░░░░░░░   64.32 % 
+Starlight                2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+minecraft_world          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+runner-images            58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+dotfiles                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 18:52:39 UTC
+ Last Updated on 16/08/2025 18:49:03 UTC
 <!--END_SECTION:waka-->
