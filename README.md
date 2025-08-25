@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,8 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,24 +68,24 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     29 hrs 11 mins      ███████████████████░░░░░░   74.26 % 
-TOML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Nix                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Python                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Rust                     18 hrs 18 mins      ████████████████░░░░░░░░░   63.59 % 
+Nix                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+YAML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+TOML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Python                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    33 hrs 43 mins      █████████████████████░░░░   85.81 % 
-wildspace                2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-dotfiles                 2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-PublishImage             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-admin-panel-rs           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+pages                    21 hrs 46 mins      ███████████████████░░░░░░   75.60 % 
+wildspace                2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+dotfiles                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+ansible                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+PublishImage             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    39 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 18:47:41 UTC
+ Last Updated on 25/08/2025 18:51:05 UTC
 <!--END_SECTION:waka-->
