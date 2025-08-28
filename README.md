@@ -23,7 +23,7 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,8 +32,6 @@ Hi, I'm Amelia. I'm a college student and hobbyist compsci nerd who does some st
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
- > 
-> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,24 +66,24 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.73 % 
-YAML                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Nix                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-TOML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Rust                     5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+TypeScript               4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Vue.js                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Nix                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+YAML                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
-wildspace                4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-dotfiles                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-ansible                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Voxira                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+wildspace                13 hrs 15 mins      ████████████████░░░░░░░░░   63.65 % 
+dotfiles                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+ansible                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Voxira                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+voxel_world              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Linux                    17 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +99,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 18:47:43 UTC
+ Last Updated on 28/08/2025 18:49:30 UTC
 <!--END_SECTION:waka-->
