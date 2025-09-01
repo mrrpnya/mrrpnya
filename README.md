@@ -23,7 +23,7 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,24 +68,24 @@ Sunday                   62 commits          ███████░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   14 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
-TypeScript               6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Rust                     4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-YAML                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Nix                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Vue.js                   15 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
+TypeScript               7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Rust                     6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Nix                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    17 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.57 % 
-wildspace                11 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-dotfiles                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-ansible                  1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Voxira                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+pages                    19 hrs 22 mins      █████████████░░░░░░░░░░░░   53.16 % 
+wildspace                11 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   31.38 % 
+dotfiles                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Voxira                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+voxel_world              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
-Linux                    34 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +101,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 18:46:08 UTC
+ Last Updated on 01/09/2025 18:47:42 UTC
 <!--END_SECTION:waka-->
