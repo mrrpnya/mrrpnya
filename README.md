@@ -22,40 +22,40 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 284.1 kB Used in GitHub's Storage 
+> 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-🌆 Daytime                93 commits          ███████████░░░░░░░░░░░░░░   44.71 % 
-🌃 Evening                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌙 Night                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌞 Morning                87 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                88 commits          ████████░░░░░░░░░░░░░░░░░   33.72 % 
+🌃 Evening                52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌙 Night                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Friday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   62 commits          ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Wednesday                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Saturday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Sunday                   70 commits          ███████░░░░░░░░░░░░░░░░░░   26.82 % 
 ```
 
 
@@ -65,38 +65,38 @@ Sunday                   62 commits          ███████░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   18 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.12 % 
-TypeScript               11 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-Rust                     5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-YAML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               20 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
+Vue.js                   18 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   37.22 % 
+Rust                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+CSS                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  50 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    19 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.79 % 
-wildspace                16 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.02 % 
-wildspace-nuxt           2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-dotfiles                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Voxira                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+pages                    19 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.17 % 
+wildspace                17 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
+wildspace-nuxt           12 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+wildspace-construction-pa38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+dotfiles                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Linux                    44 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
-C++                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Rust                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C#                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+GDScript                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Yacc                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 02/09/2025 18:47:15 UTC
+ Last Updated on 03/09/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
