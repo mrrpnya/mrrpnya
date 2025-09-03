@@ -15,10 +15,9 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 - Dive deeper into JS frameworks.
 - Get the hang of Rust a bit more
 
-[![blahaj!](https://isabelroses.com/static/badges/badges/love_blahaj.gif)](https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/)
-![trans rights!](https://isabelroses.com/static/badges/badges/transnow.png)
+[![catppuccin](./assets/catppuccin.gif)](https://catppuccin.com/)
 ![progress pride](https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_progress.png?raw=true)
-![queercoded](https://isabelroses.com/static/badges/badges/queercoded.webp)
+![queercoded](./assets/queercoded.webp)
 ![nix](https://isabelroses.com/static/badges/badges/nix.gif)
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
