@@ -22,7 +22,7 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,24 +65,24 @@ Sunday                   120 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               17 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.79 % 
-Vue.js                   17 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
-Rust                     4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-CSS                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+TypeScript               23 hrs 32 mins      ███████████░░░░░░░░░░░░░░   45.71 % 
+Vue.js                   15 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Rust                     4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  51 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pages                    20 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.20 % 
-wildspace-nuxt           13 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-wildspace                8 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-pageshelf                4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-wildspace-construction-pa38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+wildspace-nuxt           20 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.85 % 
+pages                    17 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.29 % 
+wildspace                8 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+pageshelf                4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+wildspace-construction-pa38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Linux                    47 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    51 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +98,5 @@ Yacc                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2025 18:47:46 UTC
+ Last Updated on 05/09/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
