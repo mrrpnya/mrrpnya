@@ -22,17 +22,17 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.8 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2025
+> 🏆 56 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,21 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                120 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
-🌆 Daytime                132 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-🌙 Night                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+🌞 Morning                127 commits         █████████░░░░░░░░░░░░░░░░   37.91 % 
+🌆 Daytime                106 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌃 Evening                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Wednesday                112 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Sunday                   100 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Wednesday                89 commits          ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Saturday                 64 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Sunday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 ```
 
 
@@ -67,24 +67,24 @@ Sunday                   100 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               31 hrs 14 mins      ███████████████░░░░░░░░░░   61.24 % 
-Vue.js                   5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Rust                     4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Prisma                   3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-YAML                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               31 hrs 1 min        ████████████████░░░░░░░░░   64.27 % 
+Vue.js                   5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Prisma                   3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Rust                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  51 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  48 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wildspace-nuxt           22 hrs 49 mins      ███████████░░░░░░░░░░░░░░   44.73 % 
-hidden-library-dev       10 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-wildspace                7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-pages                    4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-pageshelf                4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+wildspace-nuxt           22 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.29 % 
+hidden-library-dev       11 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+wildspace                7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+pageshelf                4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+pages                    2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 💻 Operating System: 
-Linux                    51 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    48 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -100,5 +100,5 @@ Yacc                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 18:44:09 UTC
+ Last Updated on 08/09/2025 18:48:13 UTC
 <!--END_SECTION:waka-->
