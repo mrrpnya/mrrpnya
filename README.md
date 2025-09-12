@@ -65,24 +65,24 @@ Sunday                   70 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               16 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.01 % 
-Rust                     9 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Prisma                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               11 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   39.90 % 
+Rust                     9 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+Prisma                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pageshelf                12 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-hidden-library-dev       11 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
-wildspace-nuxt           9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-pages                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-dotfiles                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+hidden-library-dev       12 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.86 % 
+pageshelf                12 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
+wildspace-nuxt           2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+dotfiles                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+manim                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Linux                    33 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +98,5 @@ Yacc                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 18:45:31 UTC
+ Last Updated on 12/09/2025 18:44:38 UTC
 <!--END_SECTION:waka-->
