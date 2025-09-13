@@ -22,7 +22,7 @@ Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasion
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,24 +65,24 @@ Sunday                   70 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               11 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   39.90 % 
-Rust                     9 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-Prisma                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Rust                     9 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+TypeScript               5 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Prisma                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Nix                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  21 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hidden-library-dev       12 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.86 % 
-pageshelf                12 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
-wildspace-nuxt           2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-dotfiles                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-manim                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+pageshelf                12 hrs 10 mins      ██████████████░░░░░░░░░░░   55.31 % 
+hidden-library-dev       8 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
+dotfiles                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+manim                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+pages                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    28 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    21 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -98,5 +98,5 @@ Yacc                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 18:44:38 UTC
+ Last Updated on 13/09/2025 18:42:25 UTC
 <!--END_SECTION:waka-->
