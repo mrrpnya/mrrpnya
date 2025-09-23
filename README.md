@@ -1,9 +1,6 @@
 ### About Me
 Hi. I'm a college student and hobbyist compsci nerd who does some stuff occasionally.
 
-- I'm still learning stuff
-- I have Autism and ADHD, please be patient
-
 ### Skills & Technologies
 - **Languages**: C, C++, C#, Rust
 - **Frameworks**: Nuxt, learning Next.JS
